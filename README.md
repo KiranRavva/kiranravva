@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **AI with different modules**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/KiranRavva 
 
 - 💬 Ask me about **Database Management, Datacenter Management, Computer Architecture, Machine Learning or Linux**
 
@@ -60,8 +60,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranRavva&layout=compact&show_icons=true&theme=radical" alt="KiranRavva" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiranRavva&show_icons=true&theme=radical" alt="KiranRavva" height="159" />
 </p>
 <br>
-<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
+<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranRavva&show_icons=true&locale=en&theme=radical" alt="KiranRavva" /></p>
